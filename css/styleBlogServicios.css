@@ -144,6 +144,12 @@ section article p{
     height: 400px;
     border-radius: 7px;
 }
+.titulo{
+    text-align: center;
+}
+.parrafo{
+    text-align: justify;
+}
 footer{
   
     

@@ -169,7 +169,7 @@ section  h2, section p {
 .fondo:hover{
     transition: box-shadow 0.3s ease ;
     box-shadow: 0 0.1rem 0.4rem rgb(0,0, 0,0.5);
-    cursor: pointer;
+    /* cursor: pointer; */
    
 }
 
@@ -191,7 +191,13 @@ div img{
 .margen{
     margin-right: 15px; 
 }
-
+.video{
+    /* padding-left: 23rem; */
+    width: 800px;
+    height: 500px;
+    padding-bottom: 1rem;
+    cursor: pointer;
+}
 /* Justificación de todos los parros dentro de los div */
 div p{
     text-align: justify;
